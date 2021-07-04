@@ -34,5 +34,5 @@ Para ter acesso ao banco de dados: [MySQL](https://dev.mysql.com/downloads/)
 
 # Instruções de utilização
 Após a instalação da IDE Eclipse, certifique-se que esteja instalado o [WindowBuilder](https://projects.eclipse.org/projects/tools.windowbuilder). Abra a classe AnuncioGUI, selecione Design e clique em Run na barra de opções do eclipse. Será aberto um formulário, cadastre os dados do anúncio. 
-*Não foi possível realizar os calculos dos itens: valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos, porém a saída deles foi simulada ao clicar no botão Relátorio. 
+<h4>*Não foi possível realizar os calculos dos itens: valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos, porém a saída deles foi simulada ao clicar no botão Relátorio. </h4>
 Para mais informações, consulte a [documentação]( https://jezebel1990.github.io/doc_cadastroAnuncio/) do sistema de controle de cadastro de anúncios. 
