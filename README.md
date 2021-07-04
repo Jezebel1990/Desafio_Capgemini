@@ -27,9 +27,9 @@ git clone https://github.com/Jezebel1990/Desafio_Capgemini.git
 Pressione Enter para criar seu clone local.
 
 Execute o programa com:
-https://www.oracle.com/java/technologies/javase-downloads.html
-https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-ee-developers
+[Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+[IDE Eclipse](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-ee-developers)
 
-Para ter acesso ao banco de dados:https://dev.mysql.com/downloads/
+Para ter acesso ao banco de dados: [MySQL](https://dev.mysql.com/downloads/)
 
 # Instruções de utilização
