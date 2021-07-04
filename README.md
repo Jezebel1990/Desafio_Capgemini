@@ -12,9 +12,9 @@ Este programa será composto de duas partes:
 
 1ª Parte - Considere os seguintes critérios fictícios para desenvolver a calculadora de alcance de anúncio: Baseados em dados de análise de anúncios anteriores, a agência tem os seguintes dados: a cada 100 pessoas que visualizam o anúncio 12 clicam nele. a cada 20 pessoas que clicam no anúncio 3 compartilham nas redes sociais. cada compartilhamento nas redes sociais gera 40 novas visualizações. 30 pessoas visualizam o anúncio original (não compartilhado) a cada R$ 1,00 investido. o mesmo anúncio é compartilhado no máximo 4 vezes em sequência (1ª pessoa -> compartilha -> 2ª pessoa -> compartilha - > 3ª pessoa -> compartilha -> 4ª pessoa)
 
-2ª Parte - Considere os seguintes critérios fictícios para desenvolver o cadastro de anúncios: Crie um sistema que permita o cadastro de anúncios. O anúncio deverá conter os seguintes dados: nome do anúncio cliente data de início data de término investimento por dia
+2ª Parte - Considere os seguintes critérios fictícios para desenvolver o cadastro de anúncios: Crie um sistema que permita o cadastro de anúncios. O anúncio deverá conter os seguintes dados: nome do anúncio, cliente, data de início, data de término e investimento por dia.
 
-O sistema fornecerá os relatórios de cada anúncio contendo: valor total investido quantidade máxima de visualizações quantidade máxima de cliques quantidade máxima de compartilhamentos Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
+O sistema fornecerá os relatórios de cada anúncio contendo: valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos. Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
 
 # Desenvolvimento
 
@@ -33,3 +33,6 @@ Execute o programa com:
 Para ter acesso ao banco de dados: [MySQL](https://dev.mysql.com/downloads/)
 
 # Instruções de utilização
+Após a instalação da IDE Eclipse, certifique-se que esteja instalado o [WindowBuilder](https://projects.eclipse.org/projects/tools.windowbuilder). Abra a classe AnuncioGUI, selecione Design e clique em Run na barra de opções do eclipse. Será aberto um formulário, cadastre os dados do anúncio. 
+*Não foi possível realizar os calculos dos itens: valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos, porém a saída deles foi simulada ao clicar no botão Relátorio. 
+Para mais informações, consulte a [documentação]( https://jezebel1990.github.io/doc_cadastroAnuncio/) do sistema de controle de cadastro de anúncios. 
