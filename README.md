@@ -16,12 +16,13 @@ Este programa será composto de duas partes:
 
 O sistema fornecerá os relatórios de cada anúncio contendo: valor total investido quantidade máxima de visualizações quantidade máxima de cliques quantidade máxima de compartilhamentos Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
 
-#Desenvolvimento
+# Desenvolvimento
 
 Para compilar este programa é necessário: 
 
 Com o CMD aberto, insira git clone com o URL do clone HTTPS:
-$ git clone https://github.com/Jezebel1990/Desafio_Capgemini.git
+
+git clone https://github.com/Jezebel1990/Desafio_Capgemini.git
 
 Pressione Enter para criar seu clone local.
 
@@ -31,4 +32,4 @@ https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-ee
 
 Para ter acesso ao banco de dados:https://dev.mysql.com/downloads/
 
-#Instruções de utilização
+# Instruções de utilização
