@@ -15,3 +15,20 @@ Este programa será composto de duas partes:
 2ª Parte - Considere os seguintes critérios fictícios para desenvolver o cadastro de anúncios: Crie um sistema que permita o cadastro de anúncios. O anúncio deverá conter os seguintes dados: nome do anúncio cliente data de início data de término investimento por dia
 
 O sistema fornecerá os relatórios de cada anúncio contendo: valor total investido quantidade máxima de visualizações quantidade máxima de cliques quantidade máxima de compartilhamentos Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
+
+#Desenvolvimento
+
+Para compilar este programa é necessário: 
+
+Com o CMD aberto, insira git clone com o URL do clone HTTPS:
+$ git clone https://github.com/Jezebel1990/Desafio_Capgemini.git
+
+Pressione Enter para criar seu clone local.
+
+Execute o programa com:
+https://www.oracle.com/java/technologies/javase-downloads.html
+https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-ee-developers
+
+Para ter acesso ao banco de dados:https://dev.mysql.com/downloads/
+
+#Instruções de utilização
